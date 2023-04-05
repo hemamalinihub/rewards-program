@@ -1,0 +1,30 @@
+.App {
+  text-align:center ;
+}
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: text-top;
+  font-size: calc(10px + 2vmin);
+}
+.reward-table{
+  font-family: Arial, Helvetica, sans-serif;
+  border: 1px;
+  border-color: black;
+    border-collapse: collapse;
+    width: 100%;
+}
+.th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+ .td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}

@@ -1,0 +1,44 @@
+{
+    "customer":[
+    {
+        "transaction_id": 1,
+        "customer_id": 1000,
+        "name": "Hema Priya",
+        "transaction_amt": 25,
+        "currency": "USD"
+    
+    },
+    {
+        "transaction_id": 2,
+        "customer_id":1232,
+        "name": "Priya Shiva",
+        "transaction_amt":175,
+        "currency": "USD"
+    
+    },
+    {
+        "transaction_id": 3,
+        "customer_id": 2321,
+        "name": "Arun Laksminarayanan",
+        "transaction_amt": 1250,
+        "currency": "USD"
+    
+    },
+    {
+        "transaction_id": 4,
+        "customer_id": 3214,
+        "name": "Hema Priya",
+        "transaction_amt": 100,
+        "currency": "USD"
+    
+    },
+    {
+        "transaction_id": 5,
+        "customer_id": 4567,
+        "name": "Monica",
+        "transaction_amt": 75,
+        "currency": "USD"
+    
+    }
+]
+}
